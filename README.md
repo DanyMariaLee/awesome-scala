@@ -47,6 +47,7 @@ Projects with over 500 stargazers are in bold.
 *Database access libraries in Scala.*
 
 * [Activate ★ 297 ⧗ 1](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
+* [Aerospike-scala](https://github.com/TinkoffCreditSystems/aerospike-scala/blob/master/README.md) - Typesafe DSL for work with Aerospike Database
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 52 ⧗ 11](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 530 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
